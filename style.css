@@ -1,4 +1,11 @@
+body {
+   backgroud #cccccc
+}
+
 p{
-   text-aling:center;
-   backgroud:#cccccc"
+   text-aling:center;  
+}
+
+em strong{
+  color: red; 
 }
