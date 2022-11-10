@@ -1,11 +1,14 @@
 body {
-   backgroud #cccccc
+   
 }
 
 #banner{
    width:50%;
 }
 
+.principal{
+      backgroud:#cccccc
+}
 
 h1{
    style="text aling:certer"
@@ -18,12 +21,19 @@ p{
 #missao{
     font-size: 20px
 
-em strong{
-  color: #FF000;
-}
+
+ em strong{
+   color: #FF000;
+}   
+
 .itens {
     font_style:italic   
    }   
    
+.beneficios{
+ backgroud:#ffffff;
+}
 
-   . beneficios
+   h2{
+      text-aling:center;
+   }
