@@ -11,7 +11,7 @@ body {
    padding:30px;
 }
 
-h1{
+.titulo centralizado{
    style="text aling:certer"
 }
 
@@ -35,8 +35,6 @@ p{
     backgroud:#ffffff;
    padding:20px;
 }
-   h2{
-      text-aling:center;
    }
    ul {
       display: inline-blok;
