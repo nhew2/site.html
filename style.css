@@ -32,16 +32,16 @@ p{
    }   
    
 .beneficios{
- backgroud:#ffffff;
-padding:20px;
+    backgroud:#ffffff;
+   padding:20px;
 }
    h2{
       text-aling:center;
    }
    ul {
       display: inline-blok;
-vertical-align:top;
-width:20%;
+   vertical-align:top;
+   width:20%;
    margin-right:15%;   
    } 
   
